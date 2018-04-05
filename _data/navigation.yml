@@ -5,7 +5,7 @@ main:
   - title: "CV"
     url: /CalebChoban.pdf
     alt: Curriculum Vitae
-  -title: Research
+  - title: Research
     url: /research/
-  -title: "Publications"
+  - title: "Publications"
     url: /pubs/
